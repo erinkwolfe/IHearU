@@ -1,5 +1,4 @@
-﻿<<<<<<< HEAD
-# [IHearU](http://www.thecgeinc.org/iHearU_3.html) - Phase 1 Git Repository
+﻿# [IHearU](http://www.thecgeinc.org/iHearU_3.html) - Phase 1 Git Repository
 
 ## Project Description
 
@@ -42,9 +41,9 @@ Jarend Blake **Group Leader**
 Leland Coontz, Dongyang Chen, Erin Wolfe, Olivia Tranfo
 
 #### [CONTENT]()
-**Group Leader**
+Saurabj Poddar **Group Leader**
 
-Saurabj Poddar, Leland Coontz, Katherine Hu, Annalise Mantz, Chase Mitchell, Nicholas Cox, Mandy Cheong
+Leland Coontz, Katherine Hu, Annalise Mantz, Chase Mitchell, Nicholas Cox, Mandy Cheong
 
 #### [DATA ARCHITECTURE]()
 Dongyang Chen **Group Leader**
@@ -52,24 +51,19 @@ Dongyang Chen **Group Leader**
 Cristian Hernandez, Cheong Shu, Won Jun Kang, Katherine Hu
 
 #### [QA LEADS]()
-**Group Leader**
+Chase Mitchell **Group Leader**
 
-Nicholcas Cox, Cristian Hernandez, Saurabh Poddar, Chase Mitchell
+Nicholcas Cox, Cristian Hernandez, Saurabh Poddar
 
-Annalise Mantz, Erin Wolf
 
 #### [HTML PROD]()
-**Group Leader**
+Olivia Tranfo **Group Leader**
 
-Olivia Tranfo, Mandy Cheong, Saurabh Poddar, Jared Blake, Leland Coontz, Karthrine Hu, Erin Wolfe, Annalise Mantz, Chase Mitchel
+Mandy Cheong, Saurabh Poddar, Jared Blake, Leland Coontz, Karthrine Hu, Erin Wolfe, Annalise Mantz, Chase Mitchel
 
 #### [DEV PROD]()
-**Group Leader**
+Cristian Hernandez **Group Leader**
 
-Dongyang Chen, Chong Shu, Nicholas Cox, Won Jun Kang, Cristian Hernandez
+Dongyang Chen, Chong Shu, Nicholas Cox, Won Jun Kang
 
 ## Git Commands
-
-
-
-=======
