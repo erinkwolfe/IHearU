@@ -1,3 +1,4 @@
+
 # [IHearU](http://www.thecgeinc.org/iHearU_3.html) - Phase 1 Git Repository
 
 ## Project Description
@@ -15,7 +16,10 @@ IhearU Design Links: [Home](http://www.thecgeinc.org/iHearU_3.html) [About](http
 youremail@email.com *please put the email you check*
 
 [Dongyang Chen]()
-dongyanc@usc.edu 
+dyc5828@gmail.com
+
+[Leland Coontz]()
+leland.coontz.iv@gmail.com
 
 ### Groups
 
@@ -62,5 +66,6 @@ Olivia Tranfo, Mandy Cheong, Saurabh Poddar, Jared Blake, Leland Coontz, Karthri
 Dongyang Chen, Chong Shu, Nicholas Cox, Won Jun Kang, Cristian Hernandez
 
 ## Git Commands
+
 
 
