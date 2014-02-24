@@ -28,6 +28,7 @@
 
 # OS generated files #
 ######################
+.ini
 .DS_Store
 .DS_Store?
 ._*
