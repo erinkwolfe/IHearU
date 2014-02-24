@@ -1,3 +1,4 @@
+﻿<<<<<<< HEAD
 # [IHearU](http://www.thecgeinc.org/iHearU_3.html) - Phase 1 Git Repository
 
 ## Project Description
@@ -16,6 +17,9 @@ youremail@email.com *please put the email you check*
 
 Dongyang Chen
 dyc5828@gmail.com
+
+Erin Wolfe
+erinkwol@usc.edu
 
 Leland Coontz
 leland.coontz.iv@gmail.com
@@ -68,3 +72,4 @@ Dongyang Chen, Chong Shu, Nicholas Cox, Won Jun Kang, Cristian Hernandez
 
 
 
+=======
