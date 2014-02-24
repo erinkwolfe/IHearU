@@ -1,4 +1,3 @@
-
 # [IHearU](http://www.thecgeinc.org/iHearU_3.html) - Phase 1 Git Repository
 
 ## Project Description
@@ -12,13 +11,13 @@ IhearU Design Links: [Home](http://www.thecgeinc.org/iHearU_3.html) [About](http
 **Mentor:** Zune Nguyen
 
 
-[Exampe: Person 1](your classoage url here)
+Exampe: Person 1
 youremail@email.com *please put the email you check*
 
-[Dongyang Chen]()
+Dongyang Chen
 dyc5828@gmail.com
 
-[Leland Coontz]()
+Leland Coontz
 leland.coontz.iv@gmail.com
 
 ### Groups
