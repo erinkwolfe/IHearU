@@ -1,4 +1,4 @@
-﻿# [IHearU](http://www.thecgeinc.org/iHearU_3.html) - Phase 1 Git Repository
+# [IHearU](http://www.thecgeinc.org/iHearU_3.html) - Phase 1 Git Repository
 
 ## Project Description
 
@@ -11,7 +11,7 @@ IhearU Design Links: [Home](http://www.thecgeinc.org/iHearU_3.html) [About](http
 **Mentor:** Zune Nguyen
 
 
-Exampe: Person 1
+Example: Person 1
 youremail@email.com *please put the email you check*
 
 Dongyang Chen
@@ -22,6 +22,9 @@ erinkwol@usc.edu
 
 Leland Coontz
 leland.coontz.iv@gmail.com
+
+Annalise Mantz
+amantz@usc.edu
 
 ### Groups
 
