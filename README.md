@@ -67,3 +67,83 @@ Cristian Hernandez **Group Leader**
 Dongyang Chen, Chong Shu, Nicholas Cox, Won Jun Kang
 
 ## Git Commands
+
+
+### Create a New Repo
+
+Initialize the repository:
+
+```bash
+git init
+```
+
+Add GitHub origin:
+
+```bash
+git remote add origin https://github.com/erinkwolfe/IHearU.git
+```
+
+### Check Remote
+
+Remote Status:
+
+```bash
+git remote -v
+```
+
+### Push to GitHub
+
+Check status of repository, all changed files will be in red:
+
+```bash
+git status
+```
+
+Add all files to staging area:
+
+```bash
+git add -A
+```
+
+Check status of repository, all files added should be in green:
+
+```bash
+git status
+```
+
+Commit to changes, add descriptive commit message:
+
+```bash
+git commit -m 'commitMessage'
+```
+
+Push to GitHub repo:
+
+```bash
+git push -u origin branchName
+```
+
+*only need* `-u origin branchName` *on first push.*
+
+### Pull from GitHub
+
+```bash
+git pull -u origin branchName
+```
+
+*only need* `-u origin branchName` *on first pull.*
+
+### Replace local repo with Github Repo
+*This will delete all local file changes*
+
+Fetch GitHub master:
+
+```bash
+git fetch origin master
+```
+
+Reset local with master:
+
+```bash
+git reset --hard origin/master
+```
