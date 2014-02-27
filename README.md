@@ -26,6 +26,9 @@ leland.coontz.iv@gmail.com
 Annalise Mantz
 amantz@usc.edu
 
+Chong Shu
+chongshu@usc.edu
+
 ### Groups
 
 #### [PM]()
