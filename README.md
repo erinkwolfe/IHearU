@@ -14,6 +14,9 @@ IhearU Design Links: [Home](http://www.thecgeinc.org/iHearU_3.html) [About](http
 Example: Person 1
 youremail@email.com *please put the email you check*
 
+Kang Won Jun 
+wonjunka@usc.edu
+
 Dongyang Chen
 dyc5828@gmail.com
 
