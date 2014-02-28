@@ -35,6 +35,9 @@ chongshu@usc.edu
 Saurabh Poddar
 spoddar@usc.edu
 
+Chase Mitchell
+cbmitche@usc.edu
+
 ### Groups
 
 #### [PM]()
