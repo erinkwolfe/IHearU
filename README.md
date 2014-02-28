@@ -32,6 +32,9 @@ amantz@usc.edu
 Chong-Shu
 chongshu@usc.edu
 
+Cristian Hernandez
+cbhernan@usc.edu
+
 Saurabh Poddar
 spoddar@usc.edu
 
