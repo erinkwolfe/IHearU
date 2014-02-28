@@ -38,6 +38,9 @@ spoddar@usc.edu
 Chase Mitchell
 cbmitche@usc.edu
 
+Mandy Cheong
+mycheong@usc.edu
+
 ### Groups
 
 #### [PM]()
