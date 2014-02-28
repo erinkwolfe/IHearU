@@ -51,7 +51,7 @@ Mandy Cheong **Group Leader**
 Jared Blake, Won Jun Kang, Olivia Tranfo, Chong Shu
 
 #### [GRAPHICS]()
-Jarend Blake **Group Leader**
+Jared Blake **Group Leader**
 
 Leland Coontz, Dongyang Chen, Erin Wolfe, Olivia Tranfo
 
