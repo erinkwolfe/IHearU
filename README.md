@@ -6,6 +6,8 @@
 
 IhearU Design Links: [Home](http://www.thecgeinc.org/iHearU_3.html) [About](http://www.thecgeinc.org/About__iHearU.html) [Learn](http://www.thecgeinc.org/iHearU__Learn.html) [Collaborate](http://www.thecgeinc.org/iHearU__Collaborate.html)
 
+IhearU Site IP: [162.242.242.231](http://162.242.242.231)
+
 ## Team Members
 
 **Mentor:** Zune Nguyen
