@@ -34,6 +34,9 @@ amantz@usc.edu
 Chong-Shu
 chongshu@usc.edu
 
+Katherine Hu
+katherine.hu@usc.edu
+
 Cristian Hernandez
 cbhernan@usc.edu
 
